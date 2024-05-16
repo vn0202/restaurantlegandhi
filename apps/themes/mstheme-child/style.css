@@ -1996,7 +1996,7 @@ display: none!important;
 .blog #actu {
 display: none;
 }
-#actu{background: #e35d11;padding: 0 0 10px;padding: 0px 0 70px;/* background-image: url(http://www.multimed-solutions.fr/jeu-de-fil/apps/uploads/2017/12/bg-produit.jpg); *//* background-size: cover; *//* background-repeat: no-repeat; *//* background-position: center; */background: #121212;box-shadow: inset 1px 8px 14px 0px rgba(0, 0, 0, 0.17);}
+#actu{background: #e35d11;padding: 0 0 10px;padding: 0px 0 70px;/* background-image: url(//www.multimed-solutions.fr/jeu-de-fil/apps/uploads/2017/12/bg-produit.jpg); *//* background-size: cover; *//* background-repeat: no-repeat; *//* background-position: center; */background: #121212;box-shadow: inset 1px 8px 14px 0px rgba(0, 0, 0, 0.17);}
 
 a.img-actu img {
     height: auto;
