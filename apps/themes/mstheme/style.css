@@ -81,10 +81,8 @@ h6{font-size: 1.1em;font-weight: normal;}
 
 	/* parallaxe */
 	
-.parallaxe{background: transparent url(/web/20190811154754im_/https://www.restaurantlegandhi.com/apps/themes/mstheme/style.css?ver=5.2.2) no-repeat center center;background-size: cover;}
 .parallaxe.fixed{background-attachment: fixed;}
 .parallaxe .parallaxeContent{padding:20px 0;}
-.parallaxe.overlay .parallaxeContent{background: transparent url(/web/20190811154754im_/https://www.restaurantlegandhi.com/apps/themes/mstheme/images/overlayParallaxe.png) repeat center center;}
 .parallaxe.overlay.nooverlay .parallaxeContent{background-image: none;}
 
 	/* gallery */
